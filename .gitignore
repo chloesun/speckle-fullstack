@@ -4,6 +4,7 @@ logs/
 *.sublime-project
 *.sublime-workspace
 npm-debug.log
+yarn.lock
 
 # keep only the data folder
 data/*
